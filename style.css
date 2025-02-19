@@ -1,0 +1,38 @@
+
+        body{background-color:pink;
+        font-family:Verdana, Geneva, Tahoma, sans-serif}
+        
+
+        .mydiv
+        {background-color:lightpink;
+        border-radius:10px;
+        padding:10px 10px;}
+        
+        h2{color:orange;}
+
+        .centerdiv
+        {margin:auto;
+           margin-left:400px;
+           margin-right:400px;
+           transform:translate(-50% -50%); 
+           background-color:white;
+           padding:15px;
+           border-radius:15px;}
+
+        img
+        {border-radius:15px;}
+
+        table
+        {border-collapse:collapse;
+            width:100%;}
+
+                
+            tr{
+            border-bottom: 1px solid gray;
+            padding-top: 10px;
+            padding-bottom: 20px;
+            padding-left: 30px;
+            padding-right: 40px;}
+       
+        
+        
